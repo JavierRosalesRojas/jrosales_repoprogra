@@ -1,0 +1,16 @@
+**Procesador de datos meteorologicos 
+
+*El programa consiste en procesar ciertos datos de muestra que recopiló una máquina durante cierta cantidad de tiempo.
+
+*El archivo EMA.sh debe encontrarse en la carpeta personal del usuario.
+
+*Ejecutar el archivo EMA.sh, con el siguiente comando  $ bash EMA.sh.
+
+*El programa descargará archivos alojados en una URL, esto lo hará el programa por defecto.
+
+*El programa creará carpetas en donde alojará los resultado según los años correspondientes resultados/anio.
+
+*Los gráficos para cada año estarán alojados en las carpetas correspondientes con nombres resultado/anio/graficoHum.png y resultado/anio/graficoTemp.png.
+
+**** ENJOY!!!!
+
